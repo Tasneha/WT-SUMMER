@@ -1,0 +1,32 @@
+[
+    {
+        "fname": "Tasnia",
+        "lname": "Neha",
+        "email": "tasnianeha2023@gmail.com",
+        "password": "nehaneha"
+    },
+    {
+        "fname": "Tasnia",
+        "lname": "Neha",
+        "email": "tasnianeha2023@gmail.com",
+        "password": "nehaneha"
+    },
+    {
+        "fname": "Tasnia",
+        "lname": "Neha",
+        "email": "tasnianeha2023@gmail.com",
+        "password": "nehaneha"
+    },
+    {
+        "fname": "Tasnia",
+        "lname": "Neha",
+        "email": "tasnianeha2023@gmail.com",
+        "password": "nehaneha"
+    },
+    {
+        "fname": "Tasnia",
+        "lname": "Neha",
+        "email": "tasnianeha2023@gmail.com",
+        "password": "nehaneha"
+    }
+]
